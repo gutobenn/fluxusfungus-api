@@ -1,0 +1,27 @@
+{
+  "name": "Fluxus Fungus API",
+  "description": "Fluxus Fungus API",
+  "keywords": [""],
+  "repository": "https://github.com/gutobenn/fluxusfungus-api",
+  "env": {
+    "CLOUDINARY_CLOUD_NAME": {
+      "description": "The 'Cloud name' of your Cloudinary account",
+      "required": true
+    },
+    "CLOUDINARY_API_KEY": {
+      "description": "The 'API Key' of your Cloudinary account",
+      "required": true
+    },
+    "CLOUDINARY_API_SECRET": {
+      "description": "The 'API Secret' of your Cloudinary account",
+      "required": true
+    }
+  },
+  "addons": ["heroku-postgresql:hobby-dev"],
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
