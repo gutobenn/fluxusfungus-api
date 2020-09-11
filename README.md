@@ -13,3 +13,5 @@ Strapi server is running at [http://localhost:1337](http://localhost:1337)
 
 ## Deployment
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gutobenn/fluxusfungus-api)
+
+Don't forget to set readonly permissions for the public!
