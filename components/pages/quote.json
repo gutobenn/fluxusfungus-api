@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_pages_quotes",
+  "info": {
+    "name": "Quote",
+    "icon": "quote-left"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "author": {
+      "type": "string"
+    }
+  }
+}

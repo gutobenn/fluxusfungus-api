@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_pages_gallery",
+  "info": {
+    "name": "Gallery",
+    "icon": "camera"
+  },
+  "options": {},
+  "attributes": {
+    "Picture": {
+      "type": "component",
+      "repeatable": true,
+      "component": "nested.picture"
+    }
+  }
+}
