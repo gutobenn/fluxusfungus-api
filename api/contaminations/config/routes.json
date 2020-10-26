@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/contaminations",
+      "handler": "contaminations.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/contaminations",
+      "handler": "contaminations.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/contaminations",
+      "handler": "contaminations.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

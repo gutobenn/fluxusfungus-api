@@ -26,7 +26,8 @@
       "type": "dynamiczone",
       "components": [
         "pages.gallery",
-        "pages.quote"
+        "pages.quote",
+        "pages.video"
       ],
       "required": true,
       "min": 1,
