@@ -11,6 +11,9 @@
   "attributes": {
     "content": {
       "type": "richtext"
+    },
+    "content_en": {
+      "type": "richtext"
     }
   }
 }

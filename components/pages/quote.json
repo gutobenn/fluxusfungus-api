@@ -11,6 +11,12 @@
     },
     "author": {
       "type": "string"
+    },
+    "content_en": {
+      "type": "richtext"
+    },
+    "author_en": {
+      "type": "string"
     }
   }
 }

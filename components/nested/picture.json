@@ -22,6 +22,12 @@
     },
     "subcaption": {
       "type": "text"
+    },
+    "caption_en": {
+      "type": "string"
+    },
+    "subcaption_en": {
+      "type": "string"
     }
   }
 }
