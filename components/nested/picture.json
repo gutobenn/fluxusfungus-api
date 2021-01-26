@@ -18,16 +18,16 @@
       "required": false
     },
     "caption": {
-      "type": "string"
+      "type": "text"
     },
     "subcaption": {
       "type": "text"
     },
     "caption_en": {
-      "type": "string"
+      "type": "text"
     },
     "subcaption_en": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
