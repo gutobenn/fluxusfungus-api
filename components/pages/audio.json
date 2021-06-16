@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_pages_audio",
+  "info": {
+    "name": "Audio",
+    "icon": "music"
+  },
+  "options": {},
+  "attributes": {
+    "URL": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

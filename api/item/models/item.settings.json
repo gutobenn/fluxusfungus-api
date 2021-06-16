@@ -27,7 +27,8 @@
       "components": [
         "pages.gallery",
         "pages.quote",
-        "pages.video"
+        "pages.video",
+        "pages.audio"
       ],
       "required": true,
       "min": 1,
