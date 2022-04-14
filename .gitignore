@@ -110,3 +110,6 @@ exports
 .cache
 build
 .strapi-updater.json
+
+.tool-versions
+.env
