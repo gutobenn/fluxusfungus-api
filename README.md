@@ -2,7 +2,7 @@
 
 #### Development
 
-Copy the `.env.local.example` file in this directory to `.env.local` (which will be ignored by Git):
+Copy the `.env.example` file in this directory to `.env` (which will be ignored by Git):
 
 ```bash
 cp .env.example .env
