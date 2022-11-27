@@ -1,8 +1,14 @@
 # Fluxus Fungus API
 
 #### Development
-Install dependencies and start the server
 
+Copy the `.env.local.example` file in this directory to `.env.local` (which will be ignored by Git):
+
+```bash
+cp .env.example .env
+```
+
+Install dependencies and start the server
 ```bash
 # Using npm
 npm install
